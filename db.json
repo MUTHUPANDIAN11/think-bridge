@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "product_code": "hello",
+      "product_name": "hi",
+      "price": 45,
+      "quantity": 78,
+      "description": "checking the edit functinality",
+      "id": 1
+    },
+    {
+      "product_code": "we",
+      "product_name": "hi",
+      "price": 12,
+      "quantity": 34,
+      "description": "hhhhhhhh",
+      "id": 2
+    },
+    {
+      "product_code": "vvvg",
+      "product_name": "gdt",
+      "price": 4,
+      "quantity": 6,
+      "description": "df",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
